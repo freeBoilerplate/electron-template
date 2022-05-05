@@ -33,13 +33,4 @@
   /></a>
 </div>
 
-## 📖 Table of Contents
-- [Features](#-features)
-- [Packages](#-packages)
-- [Quick Setup Guide](#-quick-setup-guide)
-- [Projects using this Template](#-projects-using-this-template)
-- [Reporting a Bug or Issue](#-reporting-a-bug-or-issue)
-- [Contributing](#-contributing)
-- [License](#-license)
-
-## 💡 Features
+### Replace with normal template below
